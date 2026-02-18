@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Feedback</title>
+    <link rel="stylesheet" href="../CSS_Files/style.css">
+    <link rel="stylesheet" href="../CSS_Files/feedbackStyle.css">
+</head>
+<body>
+
+<header>
+    <div class="header-top">
+        <h1>Praveen Portal</h1>
+
+        <a href="nav.html">
+            <img src="../media/menu-bar.png" alt="Navigation Menu" class="logo">
+        </a>
+    </div>
+   
+    
+    <nav>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="profile.html">Profile</a></li>
+            <li><a href="courses.html">Courses</a></li>
+            <li><a href="feedback.html" class="active">Feedback</a></li>
+            <li><a href="grades.html">Grades</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main class="feedback-main">
+
+    <h1 class="page-title">Submit Feedback</h1>
+
+   <form class="feedback-form" action="#" method="post">
+
+    <div class="form-group">
+        <label for="name">Full Name</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+    </div>
+
+    <div class="form-group">
+        <label for="type">Feedback Type</label>
+        <select id="type" name="feedback-type">
+            <option value="">Select Type</option>
+            <option value="suggestion">Suggestion</option>
+            <option value="complaint">Complaint</option>
+            <option value="appreciation">Appreciation</option>
+        </select>
+    </div>
+
+    <fieldset class="form-group">
+        <legend>Rate Our Portal</legend>
+        <div class="radio-group">
+            <label><input type="radio" name="rating" value="excellent"> Excellent</label>
+            <label><input type="radio" name="rating" value="good"> Good</label>
+            <label><input type="radio" name="rating" value="average"> Average</label>
+            <label><input type="radio" name="rating" value="poor"> Poor</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="form-group">
+        <legend>What did you like?</legend>
+        <div class="checkbox-group">
+            <label><input type="checkbox" name="likes" value="design"> Design</label>
+            <label><input type="checkbox" name="likes" value="courses"> Courses</label>
+            <label><input type="checkbox" name="likes" value="content"> Content</label>
+            <label><input type="checkbox" name="likes" value="navigation"> Navigation</label>
+        </div>
+    </fieldset>
+
+    <div class="form-group">
+        <label for="message">Your Feedback</label>
+        <textarea id="message" name="message" rows="5" placeholder="Write your feedback here..."></textarea>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="submit-btn">Submit Feedback</button>
+    </div>
+
+</form>
+
+</main>
+
+<footer>
+   <div class="footer-social">
+            <a href="https://github.com/praveenkr26" aria-label="GitHub" target="_blank">
+                <img src="../media/github.png" alt="GitHub Logo">
+            </a>
+            <a href="https://www.youtube.com/@PraveenPandit26" aria-label="YouTube" target="_blank">
+                <img src="../media/youtube.png" alt="Youtube Logo">
+            </a>
+            <a href="https://www.linkedin.com/in/praveenkr26/" aria-label="LinkedIn" target="_blank">
+                <img src="../media/linkedin.png" alt="LinkedIN Logo">
+            </a>
+
+        </div>
+  <p>© 2026 Praveen | Praveen Portal</p>
+</footer>
+
+</body>
+</html> 
