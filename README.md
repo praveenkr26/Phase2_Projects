@@ -15,8 +15,6 @@ This project demonstrates clean UI design, responsive layouts, Flexbox usage, an
 
 🔗[ **Download ZIP:**](https://github.com/praveenkr26/Phase2_Projects/archive/refs/heads/main.zip)
 
-🔗 [**GitHub Repository:**](https://github.com/praveenkr26/Phase2_Projects)
-
 ---
 
 # 🖼️ Project Preview
@@ -129,3 +127,7 @@ This project was created to:
 ---
 
 ⭐ If you like this project, don't forget to star the repository!
+
+
+🔗 [**Go to TOP 🔝**](https://github.com/praveenkr26/Phase2_Projects)
+
