@@ -7,18 +7,15 @@ This project demonstrates clean UI design, responsive layouts, Flexbox usage, an
 
 # 🌐 Live Demo
 
-🔗 **Live Website:**  
-https://praveenkr26.github.io/Phase2_Projects
+🔗 **Live Website:**  [Click Here](https://praveenkr26.github.io/Phase2_Projects)
 
 ---
 
 # 📥 Download Source Code
 
-🔗 **Download ZIP:**  
-https://github.com/praveenkr26/Phase2_Projects/archive/refs/heads/main.zip
+🔗[ **Download ZIP:**](https://github.com/praveenkr26/Phase2_Projects/archive/refs/heads/main.zip)
 
-🔗 **GitHub Repository:**  
-https://github.com/praveenkr26/Phase2_Projects
+🔗 [**GitHub Repository:**](https://github.com/praveenkr26/Phase2_Projects)
 
 ---
 
@@ -26,11 +23,6 @@ https://github.com/praveenkr26/Phase2_Projects
 
 <img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/601e27f6-9360-4208-bbc3-5e93b1b0337e" />
 <img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/1ef372ef-a137-4c94-8f94-d962dc01d39d" />
-
-> 📌 Note:  
-> Add your project screenshot as `preview.png` in the root folder to display preview image.
-> 
-
 
 ---
 
@@ -117,14 +109,11 @@ This project was created to:
 
 **Praveen**
 
-🔗 GitHub:  
-https://github.com/praveenkr26  
+🔗 [GitHub:](https://github.com/praveenkr26) 
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/praveenkr26/  
+🔗 [LinkedIn:](https://www.linkedin.com/in/praveenkr26)  
 
-🔗 YouTube:  
-https://www.youtube.com/@PraveenPandit26  
+🔗 [YouTube:](https://www.youtube.com/@PraveenPandit26)
 
 ---
 
